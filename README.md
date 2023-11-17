@@ -1,2 +1,2 @@
 # Windows .Net Version Checker
-This app does not work with PowerShell 2.0
+I adapted the app to work with PowerShell 2.0
