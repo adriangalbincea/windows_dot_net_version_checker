@@ -1,2 +1,2 @@
 # Windows .Net Version Checker
-This script does not work on machines with PowerShell older than 3.0. TLS issues.
+Adapted the script to work on PowerShell 2.0
