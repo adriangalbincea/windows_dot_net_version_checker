@@ -89,5 +89,5 @@ elseif ($release -eq 378389) {$version = '4.5'}
 if ($version) {
     msgbox -Informational ".NET Version: $version"
 } else {
-    msgbox -Informational ".NET Version 4.5 or later is not detected."
+    msgbox -Informational ".NET Version 4.5 or later was not detected."
 }
