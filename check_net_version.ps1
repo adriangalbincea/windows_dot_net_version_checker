@@ -14,7 +14,7 @@ Function msgbox{
 	[Parameter(Mandatory=$False)][Alias('Q')][Switch]$Question,
 	[Parameter(Mandatory=$False)][Alias('W')][Switch]$Warning,
 	[Parameter(Mandatory=$False)][Alias('I')][Switch]$Informational,
-    [Parameter(Mandatory=$False)][Alias('TM')][Switch]$TopMost)
+        [Parameter(Mandatory=$False)][Alias('TM')][Switch]$TopMost)
 
 	#Set Message Box Style
 	IF($OkCancel){$Type = 1}
